@@ -1,2 +1,2 @@
-# openwakeword-ru-model-train
-generate sample in Russian to train model for openwakeword
+# microwakeword-ru-model-train
+generate sample in Russian to train model for microwakeword
